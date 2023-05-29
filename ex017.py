@@ -1,7 +1,7 @@
 #Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente
 # de um triangulo retangulo, calcule e mostre o comprimento da hipotenusa
 
-#Here's a program that reads the lengths of the opposite and adjacent
+#Make a program that reads the lengths of the opposite and adjacent
 # slides of a right-angled triangle, calculates and displays the length of the hypotenuse
 
 cO = float(input("Enter value lengths opposite : \n"))

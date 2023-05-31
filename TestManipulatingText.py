@@ -17,10 +17,10 @@ print('Curso' in frase)
 #Tranformação de caracteres
 print(frase.replace('Python','Android'))
 
-#Upper
+#Upper Tranforma em letra Maiuscula
 print(frase.upper())
 
-#Lower
+#Lower Transforma em letra minuscula
 print(frase.lower())
 
 #Capitalize
